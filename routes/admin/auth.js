@@ -28,13 +28,13 @@ router.post('/signup',[ validateEmail,
         // added by cookie session
         req.session.userid = newUser.id    
 
-        res.send('user created')
-})
+        res.redirect('/admin/products')
+    })
 
 
 router.get('/signout', (req, res) => {
     req.session = null
-    res.send('you are logged out')
+    res.redirect('/signin')
 })
 
 router.get('/signin', (req, res) => {
@@ -51,7 +51,7 @@ router.post('/signin',[
 
     req.session.userid = user.id
 
-    res.send('you are signed in')
+    res.redirect('/admin/products')
 })
 
 module.exports = router
