@@ -2,6 +2,15 @@ const {check} = require('express-validator')
 const users = require('../../repositories/users')
 
 module.exports = {
+    validateTitle: check('title')
+    .trim()
+    .isLength({min: 5, max: 40})
+    .withMessage('title should be 5 to 40 characters'),
+    validatePrice: check('price')
+    .trim()
+    .toFloat()
+    .isFloat({min: 0})
+    .withMessage('price must be a positive number'),
     validateEmail: check('email')
     .trim()
     .normalizeEmail()
