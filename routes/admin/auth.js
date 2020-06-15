@@ -1,6 +1,7 @@
-const users = require('../../repositories/users')
 const express = require('express')
-const { validationResult } = require('express-validator')
+
+const users = require('../../repositories/users')
+const {handleErrors} = require('./middlewares')
 const signupTemplate = require('../../views/admin/auth/signup')
 const signinTemplate = require('../../views/admin/auth/signin')
 const { validateEmail, 
@@ -18,13 +19,10 @@ router.get('/signup', (req, res) => {
 
 router.post('/signup',[ validateEmail,
     validatePassword,
-    validatePassConfirm ], async (req, res) => {
-        const errors = validationResult(req)  
-        if (!errors.isEmpty()){
-            return res.send(signupTemplate({req, errors}))
-        }  
-        const {email, password, passConfirm} = req.body
-        
+    validatePassConfirm ],
+    handleErrors(signupTemplate), 
+    async (req, res) => {
+        const {email, password} = req.body      
         let newUser = await users.create({email,password})
 
         // added by cookie session
@@ -45,11 +43,9 @@ router.get('/signin', (req, res) => {
 
 router.post('/signin',[
     validateEmailExsist,
-    validateUserPassword], async (req, res) => {
-    const errors = validationResult(req)   
-    if (!errors.isEmpty()) {
-        return res.send(signinTemplate({errors}))
-    }
+    validateUserPassword],
+    handleErrors(signinTemplate), 
+    async (req, res) => {
     const { email } = req.body
     const user = await users.getOneBy({email})
 
