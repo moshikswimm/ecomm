@@ -1,6 +1,6 @@
 const users = require('../../repositories/users')
 const express = require('express')
-const { check, validationResult } = require('express-validator')
+const { validationResult } = require('express-validator')
 const signupTemplate = require('../../views/admin/auth/signup')
 const signinTemplate = require('../../views/admin/auth/signin')
 const { validateEmail, 
