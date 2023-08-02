@@ -9,7 +9,35 @@ check 1
 
 <br/>
 
-/
+snippet1
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 package.json
+```json
+7        "dependencies": {
+8          "cookie-session": "^1.4.0",
+9          "express": "^4.17.1",
+10         "express-validator": "^6.5.0",
+11         "multer": "^1.4.2",
+12         "nodemon": "^2.0.4"
+```
+
+<br/>
+
+sgsgsg
+
+<br/>
+
+<br/>
+
+snippet 2
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 package.json
+```json
+2        "name": "moshik",
+3        "version": "1.0.0",
+4        "main": "index.js",
+5        "author": "Daniel Douek <dadouek@gmail.com>",
+```
 
 <br/>
 
