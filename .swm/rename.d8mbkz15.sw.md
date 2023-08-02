@@ -11,6 +11,7 @@ look at the snippet
 
 <br/>
 
+
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 routes/products.js
 ```javascript
@@ -19,6 +20,20 @@ look at the snippet
 7          const products = await productsRepo.getAll()
 8          res.send(productsTemplate({ products }))
 ```
+
+<br/>
+
+<br/>
+
+`cfjwpfw`
+
+`productsTemplate`<swm-token data-swm-token=":routes/products.js:8:5:5:`    res.send(productsTemplate({ products }))`"/>
+
+`key`<swm-token data-swm-token=":repositories/repository.js:77:6:6:`            for (let key in filters){`"/>
+
+`📄 users.json`
+
+\`
 
 <br/>
 
