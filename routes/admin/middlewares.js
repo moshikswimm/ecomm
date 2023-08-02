@@ -1,4 +1,4 @@
-const { validationResult } = require('express-validator')
+const {  } = require('express-validator')
 
 module.exports = {
     handleErrors(templateFunc, dataCB) {
