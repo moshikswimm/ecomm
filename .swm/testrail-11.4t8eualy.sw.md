@@ -1,6 +1,6 @@
 ---
 id: 4t8eualy
-title: testrail 1
+title: testrail 11
 file_version: 1.1.3
 app_version: 1.14.0
 ---
@@ -9,16 +9,14 @@ check 1
 
 <br/>
 
-snippet1
+snippet 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package.json
 ```json
-7        "dependencies": {
-8          "cookie-session": "^1.4.0",
-9          "express": "^4.17.1",
-10         "express-validator": "^6.5.0",
-11         "multer": "^1.4.2",
-12         "nodemon": "^2.0.4"
+11       "nodemonConfig": {
+12         "ignore": [
+13           "users.json"
+14         ]
 ```
 
 <br/>
