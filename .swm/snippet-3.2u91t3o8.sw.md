@@ -17,6 +17,20 @@ fdvdvdd
 
 <br/>
 
+qqrqrr
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 routes/admin/middlewares.js
+```javascript
+18         requierAuth(req, res, next){
+19             if (!req.session.userid){
+20                 return res.redirect('/signin')
+21             }
+22             next()
+23         }
+```
+
+<br/>
+
 <br/>
 
 <br/>
