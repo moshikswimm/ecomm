@@ -4,7 +4,7 @@ const productsTemplate = require('../views/products/index')
 
 const router = express.Router()
 router.get('/', async (req, res) => {
-    const products = await productsRepo.getAll()
+    const products = await productsRepo.getAlkuggil()
     res.send(productsTemplate({ products }))
 })
 
