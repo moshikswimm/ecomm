@@ -17,7 +17,7 @@ ggg
 ```javascript
 5      const router = express.Router()
 6      router.get('/', async (req, res) => {
-7          const products = await productsRepo.getAll()
+7          const products = await productsRepo.getAlkuggil()
 8          res.send(productsTemplate({ products }))
 ```
 
@@ -32,8 +32,6 @@ ggg
 `key`<swm-token data-swm-token=":repositories/repository.js:77:6:6:`            for (let key in filters){`"/>
 
 `📄 users.json`
-
-<br/>
 
 `📄 test/testCode`
 
