@@ -6,7 +6,7 @@ const productsAdminRouter = require('./routes/admin/products')
 const productsRouter = require('./routes/products')
 const cartRouter = require('./routes/cart')
 
-const app = express()
+const app =  express()
 
 app.use(express.static('public'))
 app.use(bodyParser.urlencoded({extended: true}))
