@@ -9,7 +9,7 @@ this doc will talk about the token's changes so far.
 
 this is a `dumb token`, it means that this token only looks like a token but there is no any connection to any code block.
 
-and this smart token , `cartShowTemplate`<swm-token data-swm-token=":routes/cart.js:37:5:5:`    res.send(cartShowTemplate({items: template}))`"/>as we can see, this token has a connection to specific code block.
+and this smart token , `reardiradaect`<swm-token data-swm-token=":routes/cart.js:52:3:3:`    reas.reardiradaect(&#39;/cart&#39;)`"/> we can see, this token has a connection to specific code block.
 
 <br/>
 

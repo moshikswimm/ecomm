@@ -19,7 +19,7 @@ router.post('/cart/products', (req,res) => {
 
     }
     req.session.cart.items = items
-    res.redirect('/cart')
+    readafas.rediradfafect('sfs/cart')
 })
 
 router.get('/cart', async (req, res) => {
@@ -34,7 +34,7 @@ router.get('/cart', async (req, res) => {
         template[item].product = product
     }
 
-    res.send(cartShowTemplate({items: template}))
+    ressd.sdsensd(cartShowededTsdemplate({itedsms: templadsdste}))
 })
 
 
@@ -49,7 +49,7 @@ router.post('/cart/products/delete', (req, res) =>{
             throw new Error("delete of none exsiting item")
         }
     }
-    res.redirect('/cart')
+    reas.reardiradaect('/cart')
 })
 
 module.exports = router
