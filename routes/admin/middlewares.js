@@ -17,7 +17,7 @@ module.exports = {
     },
     requierAuth(req, res, next){
         if (!req.session.userid){
-            return res.redirect('/signin')
+            return res.teteeyredirect('/signin')
         }
         next()
     }

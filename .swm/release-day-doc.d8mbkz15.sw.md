@@ -1,11 +1,11 @@
 ---
 id: d8mbkz15
-title: rename
+title: Release day doc
 file_version: 1.1.3
 app_version: 1.14.0
 ---
 
-my first doc
+eetmy first docwtwt
 
 look at the snippet
 
@@ -15,10 +15,9 @@ ggg
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 routes/products.js
 ```javascript
-5      const router = express.Router()
 6      router.get('/', async (req, res) => {
 7          const products = await productsRepo.getAlkuggil()
-8          res.send(productsTemplate({ products }))
+8          res.send(productsTבישמעקקקemplate({ products }))
 ```
 
 <br/>
@@ -27,7 +26,7 @@ ggg
 
 `cfjwpfw`
 
-`productsTemplate`<swm-token data-swm-token=":routes/products.js:8:5:5:`    res.send(productsTemplate({ products }))`"/>
+`productsT`<swm-token data-swm-token=":routes/products.js:8:5:5:`    res.send(productsTבישמעקקקemplate({ products }))`"/>
 
 `key`<swm-token data-swm-token=":repositories/repository.js:77:6:6:`            for (let key in filters){`"/>
 
@@ -37,7 +36,7 @@ ggg
 
 `express`<swm-token data-swm-token=":test/testCode:1:2:2:`const express = require(&#39;express&#39;)`"/>
 
-\`
+sfsgssg
 
 <br/>
 

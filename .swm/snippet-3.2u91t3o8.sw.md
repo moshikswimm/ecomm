@@ -23,13 +23,11 @@ qqrqrr
 ```javascript
 18         requierAuth(req, res, next){
 19             if (!req.session.userid){
-20                 return res.redirect('/signin')
+20                 return res.teteeyredirect('/signin')
 21             }
 22             next()
 23         }
 ```
-
-<br/>
 
 <br/>
 
