@@ -11,19 +11,6 @@ look at the snippet
 
 <br/>
 
-ggg
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 routes/products.js
-```javascript
-6      router.get('/', async (req, res) => {
-7          const products = await productsRepo.getAlkuggil()
-8          res.send(productsTבישמעקקקemplate({ products }))
-```
-
-<br/>
-
-<br/>
-
 `cfjwpfw`
 
 `productsT`<swm-token data-swm-token=":routes/products.js:8:5:5:`    res.send(productsTבישמעקקקemplate({ products }))`"/>
