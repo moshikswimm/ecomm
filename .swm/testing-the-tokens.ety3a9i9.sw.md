@@ -1,11 +1,13 @@
 ---
 id: ety3a9i9
-title: eheh
+title: Testing the tokens
 file_version: 1.1.3
-app_version: 1.14.0
+app_version: 1.15.0
 ---
 
-`getAll`<swm-token data-swm-token=":repositories/repository.js:74:11:11:`        const records = await this.getAll()`"/>
+<br/>
+
+\`s
 
 <br/>
 
