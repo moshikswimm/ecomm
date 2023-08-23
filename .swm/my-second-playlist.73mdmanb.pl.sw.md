@@ -1,6 +1,6 @@
 ---
 id: 73mdmanb
-title: My second paylist
+title: My second playlist
 file_version: 1.1.3
 app_version: 1.15.3
 ---
