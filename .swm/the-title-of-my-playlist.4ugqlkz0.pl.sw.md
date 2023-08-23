@@ -16,6 +16,7 @@ welcome to my playlist
 3. [Doc 2](doc-2.ufg2xzd4.sw.md)
 4. [Doc.4 readme](README.md)
 5. [Doc 5](doc-5.3rgf02r8.sw.md)
+6. [Doc 6](doc-6.1ku8hx4b.sw.md)
 
 
 <br/>
