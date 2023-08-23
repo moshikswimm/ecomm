@@ -1,6 +1,6 @@
 ---
 id: 4ugqlkz0
-title: 5649546*&(^**%&$%$The Playlist
+title: The Best Playlist
 file_version: 1.1.3
 app_version: 1.15.3
 ---
