@@ -16,12 +16,6 @@ app_version: 1.15.3
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
 <!-- Steps - Do not remove this comment -->
 1. [Doc 1](doc-1.yk9zui6x.sw.md)
 2. [readme file](README.md)
