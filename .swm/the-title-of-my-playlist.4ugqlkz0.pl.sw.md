@@ -8,9 +8,6 @@ app_version: 1.15.3
 <!-- Intro - Do not remove this comment -->
 welcome to my playlist
 
-<br/>
-
-<br/>
 
 <!-- Steps - Do not remove this comment -->
 1. [Doc 1](doc-1.y98xoytr.sw.md)
