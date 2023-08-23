@@ -16,6 +16,7 @@ app_version: 1.15.3
 3. [Doc 2](doc-2.q25ndpia.sw.md)
 4. [doc 3 ](doc-3.w3b71auo.sw.md)
 5. [token2](token2.w0yc6iin.sw.md)
+6. [zRelease day doc](zrelease-day-doc.d8mbkz15.sw.md)
 
 
 <br/>
