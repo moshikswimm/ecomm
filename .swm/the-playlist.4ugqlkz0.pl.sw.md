@@ -1,12 +1,12 @@
 ---
 id: 4ugqlkz0
-title: The Title of My Playlist
+title: The Playlist
 file_version: 1.1.3
 app_version: 1.15.3
 ---
 
 <!-- Intro - Do not remove this comment -->
-welcome to my playlist
+Welcome to my playlist
 
 <br/>
 
