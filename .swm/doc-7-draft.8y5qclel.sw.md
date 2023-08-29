@@ -9,9 +9,33 @@ stay draft
 
 <br/>
 
-<br/>
-
 snippdraft
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
+
+<!-- empty line --><br/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 views/admin/products/index.js
 ```javascript
