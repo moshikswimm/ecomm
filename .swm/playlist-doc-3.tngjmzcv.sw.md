@@ -7,7 +7,7 @@ app_version: 1.16.0
 
 <br/>
 
-look at the campfire
+watch at the campfire below :
 
 <br/>
 
@@ -15,7 +15,7 @@ look at the campfire
 
 <br/>
 
-<br/>
+by [[sym-mention:(1ed4ee8d-7244-4ac3-82fb-bb23b9f3df8e|ZUYbK)Moshik shrem]]
 
 <br/>
 
