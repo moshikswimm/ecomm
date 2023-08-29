@@ -9,7 +9,7 @@ Yalla Hapoel
 
 <br/>
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ%3D%3D%2F24fc5139-372b-4ff0-8194-535ba26ea353.png?alt=media&token=06e17b9c-e73e-42f7-ba73-f26812c1b087" style="width:'50%'"/></div>
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ%3D%3D%2F24fc5139-372b-4ff0-8194-535ba26ea353.png?alt=media&token=06e17b9c-e73e-42f7-ba73-f26812c1b087" 
 
 <br/>
 
