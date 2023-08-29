@@ -11,13 +11,13 @@ Welcome to my playlist
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [Doc 1](doc-1.y98xoytr.sw.md)
-2. [Doc 3](doc-3.tngjmzcv.sw.md)
-3. [Doc 2](doc-2.ufg2xzd4.sw.md)
+1. [playlist Doc 1](playlist-doc-1.y98xoytr.sw.md)
+2. [playlist Doc 2](playlist-doc-2.ufg2xzd4.sw.md)
+3. [playlist Doc 3](playlist-doc-3.tngjmzcv.sw.md)
 4. [Doc.4 readme](README.md)
-5. [Doc 5](doc-5.3rgf02r8.sw.md)
-6. [Doc 6](doc-6.1ku8hx4b.sw.md)
-7. [doc 7 draft](doc-7-draft.8y5qclel.sw.md)
+5. [playlist Doc 5](playlist-doc-5.3rgf02r8.sw.md)
+6. [playlist Doc 6](playlist-doc-6.1ku8hx4b.sw.md)
+7. [playlist doc 7 draft](playlist-doc-7-draft.8y5qclel.sw.md)
 
 
 <br/>
