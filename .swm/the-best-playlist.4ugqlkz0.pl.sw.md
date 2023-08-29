@@ -1,8 +1,8 @@
 ---
 id: 4ugqlkz0
-title: The Best Playlist
+title: "The Best Playlist "
 file_version: 1.1.3
-app_version: 1.15.3
+app_version: 1.16.0
 ---
 
 <!-- Intro - Do not remove this comment -->
@@ -17,6 +17,7 @@ Welcome to my playlist
 4. [Doc.4 readme](README.md)
 5. [Doc 5](doc-5.3rgf02r8.sw.md)
 6. [Doc 6](doc-6.1ku8hx4b.sw.md)
+7. [doc 7 draft](doc-7-draft.8y5qclel.sw.md)
 
 
 <br/>
