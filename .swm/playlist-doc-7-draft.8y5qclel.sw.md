@@ -1,6 +1,6 @@
 ---
 id: 8y5qclel
-title: doc 7 draft
+title: playlist doc 7 draft
 file_version: 1.1.3
 app_version: 1.16.0
 ---
