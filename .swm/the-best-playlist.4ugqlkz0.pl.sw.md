@@ -12,10 +12,11 @@ Welcome to my playlis
 
 <!-- Steps - Do not remove this comment -->
 1. [playlist Doc 2](playlist-doc-2.ufg2xzd4.sw.md)
-2. [playlist Doc 3](playlist-doc-3.tngjmzcv.sw.md)
+2. [playlist Doc 3 videoo](playlist-doc-3-videoo.tngjmzcv.sw.md)
 3. [Doc.4 readmejgfj](README.md)
 4. [playlist doc ](playlist-doc.8y5qclel.sw.md)
 5. [fff](https://www.youtube.com/watch?v=K1nQX_hdop0)
+6. [🏁 Start Here](https://swimm-web-app.web.app/repos/dummy-repo/playlists/eg616)
 
 
 <br/>

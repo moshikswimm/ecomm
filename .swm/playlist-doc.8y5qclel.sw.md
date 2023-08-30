@@ -5,37 +5,11 @@ file_version: 1.1.3
 app_version: 1.16.0
 ---
 
-stay draft ggkk
+stay draft gg
 
 <br/>
 
 snippdraft
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 views/admin/products/index.js
 ```javascript
@@ -56,6 +30,10 @@ snippdraft
 21             </td>
 22           </tr>
 ```
+
+<br/>
+
+`(`<swm-token data-swm-token=":views/admin/products/index.js:1:7:7:`const layout = require(&#39;../layout&#39;);`"/>
 
 <br/>
 
