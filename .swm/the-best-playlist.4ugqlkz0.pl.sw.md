@@ -10,7 +10,6 @@ Welcome to my playlis
 
 <br/>
 
-
 <!-- Steps - Do not remove this comment -->
 1. [testrail 11](testrail-11.4t8eualy.sw.md)
 3. [playlist Doc 2](playlist-doc-2.ufg2xzd4.sw.md)
@@ -25,12 +24,6 @@ Welcome to my playlis
 
 <!-- Summary - Do not remove this comment -->
 this is the end of the playlist
-
-<br/>
-
-<br/>
-
-<br/>
 
 <br/>
 
