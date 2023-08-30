@@ -12,12 +12,12 @@ Welcome to my playlis
 
 <!-- Steps - Do not remove this comment -->
 1. [testrail 11](testrail-11.4t8eualy.sw.md)
-3. [playlist Doc 2](playlist-doc-2.ufg2xzd4.sw.md)
-4. [playlist Doc 3](playlist-doc-3.tngjmzcv.sw.md)
-5. [Doc.4 readme](README.md)
-6. [playlist Doc 6](playlist-doc-6.1ku8hx4b.sw.md)
-7. [playlist doc 7 draft](playlist-doc-7-draft.8y5qclel.sw.md)
-8. [fff](https://www.youtube.com/watch?v=K1nQX_hdop0)
+2. [playlist Doc 2](playlist-doc-2.ufg2xzd4.sw.md)
+3. [playlist Doc 3](playlist-doc-3.tngjmzcv.sw.md)
+4. [Doc.4 readme](README.md)
+5. [playlist doc 7 draft](playlist-doc-7-draft.8y5qclel.sw.md)
+6. [new](new.zada3tbo.sw.md)
+7. [fff](https://www.youtube.com/watch?v=K1nQX_hdop0)
 
 
 <br/>
