@@ -1,12 +1,11 @@
 ---
 id: y98xoytr
-title: playlist Doc 1
+title: Playlist Doc 1
 file_version: 1.1.3
 app_version: 1.16.0
 ---
 
 this is my first test doc
-by git
 
 <br/>
 
