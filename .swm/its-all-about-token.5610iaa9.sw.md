@@ -2,16 +2,14 @@
 id: 5610iaa9
 title: Its all about token...
 file_version: 1.1.3
-app_version: 1.14.0
+app_version: 1.16.0
 ---
 
 this doc will talk about the token's changes so far.
 
-this is a `dumb token`, it means that this token only looks like a token but there is no any connection to any code block.
+this is a `dumb token`, it means that this token only looks like a token but there is no connection to any code block.
 
-and this smart token , `reardiradaect`<swm-token data-swm-token=":routes/cart.js:52:3:3:`    reas.reardiradaect(&#39;/cart&#39;)`"/> we can see, this token has a connection to specific code block.
-
-<br/>
+and this smart token, `reardiradaect`<swm-token data-swm-token=":routes/cart.js:52:3:3:`    reas.reardiradaect(&#39;/cart&#39;)`"/> we can see, this token has a connection to the specific code block.
 
 <br/>
 
