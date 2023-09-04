@@ -6,21 +6,7 @@ app_version: 1.16.0
 ---
 
 <!-- Intro - Do not remove this comment -->
-Iddd
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<!-- Steps - Do not remove this comment -->
-1. [testrail 2 push test](testrail-2-push-test.39rd7sp0.sw.md)
-2. [Moshik title](moshik-title.55ueiu0f.sw.md)
-3. [Its all about token...](its-all-about-token.5610iaa9.sw.md)
-
+I
 
 <br/>
 
