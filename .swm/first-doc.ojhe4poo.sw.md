@@ -9,9 +9,26 @@ first image
 
 <br/>
 
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ%3D%3D%2F7a41292f-05f7-49f9-a91c-d34dfa058ead.png?alt=media&token=0d648440-239d-4f60-a577-6e62526d59f4" style="width:'25%'"/></div>
+
 <br/>
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ%3D%3D%2F7a41292f-05f7-49f9-a91c-d34dfa058ead.png?alt=media&token=0d648440-239d-4f60-a577-6e62526d59f4" style="width:'25%'"/></div>
+<br/>
+
+<br/>
+
+<br/>
+
+[[sym-mention:(3cfbd4cb-a2b4-4a1a-a336-577b79de3455|ZUYbK)Moshik shrem]]
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 repositories/users.js
+```javascript
+9          async create(attrs) {
+10             const records = await this.getAll()
+11             attrs.id = this.newId()
+12             const salt = crypto.randomBytes(8).toString('hex')
+13             const buff = await scrypt(attrs.password, salt, 64)
+```
 
 <br/>
 
