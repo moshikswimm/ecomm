@@ -16,12 +16,9 @@ kl
 
 <br/>
 
-<br/>
-
 <!-- Steps - Do not remove this comment -->
 1. [first doc](first-doc.ojhe4poo.sw.md)
 2. [second doc](second-doc.3ovwa1w8.sw.md)
-
 
 <br/>
 
