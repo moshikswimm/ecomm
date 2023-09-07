@@ -2,20 +2,24 @@
 id: ojhe4poo
 title: first doc
 file_version: 1.1.3
-app_version: 1.16.0
+app_version: 1.17.0
 ---
+
+|G |to|
+|---|---|
+|if|gh|
+
+<br/>
 
 first image
 
 <br/>
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ%3D%3D%2F7a41292f-05f7-49f9-a91c-d34dfa058ead.png?alt=media&token=0d648440-239d-4f60-a577-6e62526d59f4" style="width:'25%'"/></div>
+`delete`<swm-token data-swm-token=":repositories/repository.js:54:3:3:`    async delete(id) {`"/>
 
 <br/>
 
-|ggg|ttt|
-|---|---|
-|fff|gh |
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ%3D%3D%2F7a41292f-05f7-49f9-a91c-d34dfa058ead.png?alt=media&token=0d648440-239d-4f60-a577-6e62526d59f4" style="width:'25%'"/></div>
 
 <br/>
 
@@ -25,7 +29,7 @@ first image
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 repositories/users.js
 ```javascript
-9          async create(attrs) {
+9          async create(uuujjmoshikattrs) {
 10             const records = await this.getAll()
 11             attrs.id = this.newId()
 12             const salt = crypto.randomBytes(8).toString('hex')
