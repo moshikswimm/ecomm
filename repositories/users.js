@@ -6,7 +6,7 @@ const scrypt = util.promisify(crypto.scrypt)
 
 class UsersRepository extends Repository{
 
-    async create(attrs) {
+    async create(uuujjmoshikattrs) {
         const records = await this.getAll()
         attrs.id = this.newId()
         const salt = crypto.randomBytes(8).toString('hex')
