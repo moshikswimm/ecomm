@@ -13,8 +13,6 @@ app_version: 1.17.0
 
 first image
 
-<br/>
-
 `delete`<swm-token data-swm-token=":repositories/repository.js:54:3:3:`    async delete(id) {`"/>
 
 <br/>
@@ -23,11 +21,13 @@ first image
 
 <br/>
 
-<br/>
+hshshssd
 
 [[sym-mention:(3cfbd4cb-a2b4-4a1a-a336-577b79de3455|ZUYbK)Moshik shrem]]
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 repositories/users.js
+<!-- collapsed -->
+
 ```javascript
 9          async create(uuujjmoshikattrs) {
 10             const records = await this.getAll()
