@@ -2,14 +2,12 @@
 id: ufg2xzd4
 title: Doc 2
 file_version: 1.1.3
-app_version: 1.18.0
+app_version: 1.18.16
 ---
 
 Yalla Hapoel
 
-<br/>
-
-`548da071`<swm-token data-swm-token=":users.json:5:7:7:`    &quot;id&quot;: &quot;548da071&quot;`"/>
+`548da071`
 
 <br/>
 
