@@ -15,6 +15,26 @@ To run your local dev environment you will need a few things on your machine. Fo
 
 Clone the repository locally:
 
+<SwmSnippet path="/test/testCode" line="11">
+
+---
+
+title <SwmToken path="/repositories/repository.js" pos="1:2:2" line-data="const fs = require(&#39;fs&#39;)">`fs`</SwmToken>
+
+```
+app.use(express.static('public'))
+app.use(bodyParser.urlencoded({extended: true}))
+app.use(cookieSession({
+    keys: ['dagidagdag']
+}))
+app.use(authRouter)
+app.use(productsRouter)
+```
+
+---
+
+</SwmSnippet>
+
 ```
 git clone https://github.com/my_company/company_repo.git
 ```
@@ -27,11 +47,7 @@ git clone https://github.com/my_company/company_repo.git
 
 Here's what `yarn build` doing behind the scenes:
 
-<SwmSnippetPlaceholder>
-
-Insert a snippet that shows where `yarn build` logic is implemented.
-
-</SwmSnippetPlaceholder>
+### 
 
 ### Troubleshooting
 
