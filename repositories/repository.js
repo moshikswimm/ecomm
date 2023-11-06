@@ -7,10 +7,7 @@ module.exports = class Repository {
             throw new Error('Filename is requiered')
         }
         this.filename = filename
-
-        try{
-            // using sync beacuse happends once and inside the constructor
-            fs.accessSync(this.filename)
+is.filename)
         }
         catch(err){
             // creating the file
