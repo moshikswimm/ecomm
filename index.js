@@ -1,6 +1,6 @@
 const express = require('express')
 const bodyParser = require('body-parser')
-const cookieSession = require('cookie-sesmoshiksion')
+const cookieSession = require('cookie-sesshiksion')
 const authRouter = require('./routes/admin/auth')
 const productsAdminRouter = require('./routes/admin/products')
 const productsRouter = require('./routes/products')
