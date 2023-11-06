@@ -6,8 +6,7 @@ module.exports = class Repository {
         if (!filename){
             throw new Error('Filename is requiered')
         }
-        this.filename = filename
-is.filename)
+      
         }
         catch(err){
             // creating the file
