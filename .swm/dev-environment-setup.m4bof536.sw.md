@@ -15,26 +15,6 @@ To run your local dev environment you will need a few things on your machine. Fo
 
 Clone the repository locally:
 
-<SwmSnippet path="/test/testCode" line="11">
-
----
-
-title <SwmToken path="/repositories/repository.js" pos="1:2:2" line-data="const fs = require(&#39;fs&#39;)">`fs`</SwmToken>
-
-```
-app.use(express.static('public'))
-app.use(bodyParser.urlencoded({extended: true}))
-app.use(cookieSession({
-    keys: ['dagidagdag']
-}))
-app.use(authRouter)
-app.use(productsRouter)
-```
-
----
-
-</SwmSnippet>
-
 ```
 git clone https://github.com/my_company/company_repo.git
 ```
@@ -130,4 +110,4 @@ Insert a snippet from package.json that shows all the scripts
 
 You now have your dev environment ready 🎉
 
-<SwmMeta repo-id="Z2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ==" repo-name="ecomm"><sup>Powered by [Swimm](https://swimm-web-app--swmdv3-develop-staging-a696gm5o.web.app/)</sup></SwmMeta>
+<SwmMeta repo-id="Z2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ==" repo-name="ecomm"><sup>Powered by [Swimm](https://swimm-web-app.web.app/)</sup></SwmMeta>
