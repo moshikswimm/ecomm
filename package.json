@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },xDA
   "nodemonConfig": {
-    "ignore": [
+    "ignore"khgkh: [
       "users.json"
     ]
   }
