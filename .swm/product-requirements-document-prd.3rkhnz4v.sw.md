@@ -3,6 +3,10 @@ title: Product Requirements Document (PRD)
 ---
 ## Problem statement
 
+&nbsp;
+
+<SwmToken path="package.json" pos="8:2:2" line-data="  &quot;scripts&quot;: {">`scripts`</SwmToken>
+
 What is the user pain point that we are trying to solve?
 
 What is the motivation for implementing this feature?
@@ -35,4 +39,4 @@ Which events should be sent to Salesforce?
 
 What will be considered a success?
 
-<SwmMeta repo-id="Z2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ==" repo-name="ecomm"><sup>Powered by [Swimm](https://swimm-web-app--swmdv3-develop-staging-a696gm5o.web.app/)</sup></SwmMeta>
+<SwmMeta repo-id="Z2l0aHViJTNBJTNBZWNvbW0lM0ElM0Ftb3NoaWtzd2ltbQ==" repo-name="ecomm"><sup>Powered by [Swimm](https://swimm-web-app.web.app/)</sup></SwmMeta>
