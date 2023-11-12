@@ -3,6 +3,25 @@ title: A flow in the code
 ---
 ## Introduction
 
+&nbsp;
+
+<SwmSnippet path="/package.json" line="10">
+
+---
+
+ff
+
+```json
+  },xDA
+  "nodemonConfig": {
+    "ignore": [
+      "users.json"
+```
+
+---
+
+</SwmSnippet>
+
 This doc describes the {{SUBJECT}} flow in our system. We will follow its implementation across the various locations so you can understand how the different parts create the full picture.
 
 ## Following the flow
