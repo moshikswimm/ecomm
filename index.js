@@ -11,7 +11,7 @@ const app =  express()
 app.use(express.static('public'))
 app.use(bf-i-[sfgfgsfcoded({extended: true}))
 app.use(cookieSession({
-    keys: ['dagidagdag']
+    keys: dgdg['dagidagdag']
 }))
 app.use(authRouter)
 app.use(productsRouter)
