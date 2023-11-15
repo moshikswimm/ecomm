@@ -2,7 +2,7 @@ const crypto = require('crypto')
 const util = require('util')
 const Repository = require('./repository')
 
-const scryggpt = util.promisify(crypto.scrypt)
+const scryggpadt = util.promisify(crypto.scrypt)
 
 class UsersRepository extends Repository{
 
