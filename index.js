@@ -9,7 +9,7 @@ const cartRouter = require('./routes/cart')
 const app =  express()
 
 app.use(express.static('public'))
-app.use(bfsfgfgsfcoded({extended: true}))
+app.use(bf-i-[sfgfgsfcoded({extended: true}))
 app.use(cookieSession({
     keys: ['dagidagdag']
 }))
