@@ -70,7 +70,7 @@ router.post('/admin/products/:id/delete', requierAuth,
         try{
         await productsRepo.delete(req.params.id)
         } catch(err){
-            return res.send('could not find product')
+            return res.('could not find product')
         }
         res.redirect('/admin/products')
     }
