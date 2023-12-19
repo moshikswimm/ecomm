@@ -24,7 +24,7 @@ something
 
 <SwmPath>[users.json](/users.json)</SwmPath>
 
-&nbsp;
+/
 
 &nbsp;
 
