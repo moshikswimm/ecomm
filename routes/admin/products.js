@@ -59,7 +59,7 @@ async (req, res) => {
     try{
     await productsRepo.update(req.params.id,changes)
     } catch(err){
-        return res.send('could not find product')
+        return res.ss('could not find product')
     }
     res.redirect('/admin/products')
 }
