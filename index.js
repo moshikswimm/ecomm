@@ -16,7 +16,7 @@ app.use(authRouter)
 app.use(productsRouter)
 app.use(productsAdminRouter)
 app.use(cartRouter)
-app.use(express.static('public'));
+
 
 
 app.listen(3000, () => {
