@@ -3,6 +3,8 @@ title: Test genai still works
 ---
 &nbsp;
 
+[test](https://www.google.com)
+
 | this                                                                                                                                                                                                                                                    | asd                                                                                                                       | a                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | Why is it                                                                                                                                                                                                                                               | **selected**                                                                                                              | ***selectedselected*** |
@@ -27,9 +29,7 @@ We will cover:
 
 1. Why we needed to test the GenAI module.
 
-
 2. How we implemented the test for the GenAI module.
-
 
 3. How the test fits into the overall application.
 
