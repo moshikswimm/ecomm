@@ -10,16 +10,6 @@ app_version: 1.15.3
 
 <br/>
 
-<!-- Steps - Do not remove this comment -->
-1. [Doc 1](doc-1.yk9zui6x.sw.md)
-2. [readme file](README.md)
-3. [Doc 2](doc-2.q25ndpia.sw.md)
-4. [doc 3 ](doc-3.w3b71auo.sw.md)
-5. [token2](token2.w0yc6iin.sw.md)
-
-
-<br/>
-
 <!-- Summary - Do not remove this comment -->
 **the endddd**
 
